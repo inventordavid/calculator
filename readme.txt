@@ -12,3 +12,4 @@ Please run "mvn test" at "Calculator/1.0/" to run all tests.
 
 You may find all test cases in
 "Calculator/1.0/src/test/java/lung/calculator/StringCalculatorTest.java" .
+
